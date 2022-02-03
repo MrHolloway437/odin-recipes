@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes Spaghetti is awesome!
